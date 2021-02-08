@@ -1,16 +1,35 @@
-### Hi there 👋
+### Oh hi there 👋
+&nbsp;
 
-<!--
-**konstantinosbotonakis/konstantinosbotonakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ⚡ Fun fact: *"A coder’s job title can range from: coders, programmers, developers, computer scientists and software engineers."*
 
-Here are some ideas to get you started:
+&nbsp;
+&nbsp;
+&nbsp;
+### Technologies that I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <code><img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" /></code>
+    <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+    <code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+    <code><img alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" /></code>
+    <code><img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+    <code><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+    <code><img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+</p>
+&nbsp;
+&nbsp;
+&nbsp;
+
+### Do you want to connect?
+<p>
+<a href="https://www.linkedin.com/in/konstantinosbotonakis/" target="_blank"><img align="left" alt="Konstantinos Botonakis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/konstantinosbot/" target="_blank"><img align="left" alt="Konstantinos Botonakis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> 
+<a href="https://www.facebook.com/konstantinos.botonakis/" target="_blank"><img align="left" alt="Konstantinos Botonakis | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+</p>
+&nbsp;
+&nbsp;
+&nbsp;
+<p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinosbotonakis&show_icons=true)
+</p>
