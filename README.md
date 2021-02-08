@@ -30,6 +30,5 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinosbotonakis&show_icons=true)
-</p>
+
+![Konstantinos' GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinosbotonakis&count_private=true&show_icons=true)
