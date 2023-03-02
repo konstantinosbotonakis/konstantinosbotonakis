@@ -1,7 +1,7 @@
 # Hi there 👋!
 
 
-I'm Konstantinos, a full-stack developer with a focus on PHP and Javascript. I'm passionate about building robust and scalable web applications.
+I'm Konstantinos, a Senior Staff Software Engineer with a focus on PHP / GoLang and Javascript. I'm passionate about building robust and scalable web applications and platforms.
 
 On GitHub, you'll find projects that showcase some of my skills in both front-end and back-end development and of course some public contributions. 
 
