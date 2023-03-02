@@ -35,9 +35,8 @@ Joke of the year: "Why did a PHP developer break up with his date? Because she h
 
 ### Do you want to connect?
 <p>
-<a href="https://www.linkedin.com/in/konstantinosbotonakis/" target="_blank"><img align="left" alt="Konstantinos Botonakis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/konstantinosbot/" target="_blank"><img align="left" alt="Konstantinos Botonakis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> 
-<a href="https://www.facebook.com/konstantinos.botonakis/" target="_blank"><img align="left" alt="Konstantinos Botonakis | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<code><a href="https://www.linkedin.com/in/konstantinosbotonakis/" target="_blank"><img align="left" alt="Konstantinos Botonakis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></code>
+<code><a href="https://www.instagram.com/konstantinosbot/" target="_blank"><img align="left" alt="Konstantinos Botonakis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></code>
 </p>
 &nbsp;
 &nbsp;
