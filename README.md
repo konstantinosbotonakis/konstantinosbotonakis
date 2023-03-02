@@ -26,9 +26,10 @@ Joke of the year: "Why did a PHP developer break up with his date? Because she h
     <code><img alt="Wordpress" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/wordpress_logo_icon_167953.png" /></code>
     <code><img alt="MySQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
     <code><img alt="AWS" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/aws_button_icon_151904.png" /></code>
+    <code><img alt="GCP" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/gcp_button_icon_151896.png" /></code>
     <code><img alt="Docker" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" /></code>
     <code><img alt="Git" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-    <code><img alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+    <code><img alt="GitHub" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/github_source_icon_123274.png" /></code>
     <code><img alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 </p>
 &nbsp;
