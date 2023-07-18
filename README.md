@@ -35,21 +35,3 @@ Joke of the year: "Why did a PHP developer break up with his date? Because she h
 &nbsp;
 &nbsp;
 &nbsp;
-
-### Do you want to connect?
-<p>
-<a href="https://www.linkedin.com/in/konstantinosbotonakis/" target="_blank"><img alt="Konstantinos Botonakis | LinkedIn" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/social/linkedin_logo_icon_171224.png" /></a>
-&nbsp;
-&nbsp;
-&nbsp;
-
-<a href="https://www.instagram.com/konstantinosbot/" target="_blank"><img alt="Konstantinos Botonakis | Instagram" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/social/instagram_logo_icon_170643.png" /></a>
-</p>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-![Konstantinos' GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinosbotonakis&count_private=true&show_icons=true)
