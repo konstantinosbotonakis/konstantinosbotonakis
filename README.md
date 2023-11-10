@@ -9,29 +9,10 @@ Feel free to take a look at my repositories. If you have any questions or if the
 
 Joke of the year: "Why did a PHP developer break up with his date? Because she had no echo.".
 
-&nbsp;
-### Some of the technologies that I use:
 
-<p>
-    <code><img alt="PHP" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" /></code>
-    <code><img alt="GoLang" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/golang_logo_icon_171073.png" /></code>
-    <code><img alt="NodeJS" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/nodejs_plain_logo_icon_146409.png" /></code>
-    <code><img alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-    <code><img alt="jQuery" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></code>
-    <code><img alt="VueJS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></code>
-    <code><img alt="HTML/HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-    <code><img alt="CSS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-    <code><img alt="Bootstrap" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></code>
-    <code><img alt="Symfony" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" /></code>
-    <code><img alt="Wordpress" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/wordpress_logo_icon_167953.png" /></code>
-    <code><img alt="MySQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-    <code><img alt="AWS" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/aws_button_icon_151904.png" /></code>
-    <code><img alt="GCP" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/gcp_button_icon_151896.png" /></code>
-    <code><img alt="Docker" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" /></code>
-    <code><img alt="Git" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-    <code><img alt="GitHub" width="48px" src="https://raw.githubusercontent.com/konstantinosbotonakis/konstantinosbotonakis/main/images/dev/github_source_icon_123274.png" /></code>
-    <code><img alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-</p>
-&nbsp;
-&nbsp;
-&nbsp;
+
+## Some Stats:
+
+<a href="https://konstantinos.top/">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=konstantinosbotonakis&layout=compact&langs_count=20&card_width=320" />
+</a>
