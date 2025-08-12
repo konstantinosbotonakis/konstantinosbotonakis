@@ -1,16 +1,15 @@
 # Hi there 👋!
 
 
-I'm Konstantinos, a Principal Engineer with a focus on PHP / GoLang and Javascript. I'm passionate about building robust and scalable web applications and platforms.
+I am Konstantinos, a Principal Engineer specialising in PHP, Go, and JavaScript, with a proven track record of delivering scalable, high-performance platforms. My expertise spans system architecture, performance optimisation, and leading cross-functional teams to deliver complex projects at scale.
 
-On GitHub, you'll find projects that showcase some of my skills in both front-end and back-end development and of course some public contributions. 
+On GitHub, you will find examples of my open-source work, technical experiments, and contributions that reflect my approach to building maintainable, resilient systems. My work often bridges front-end and back-end domains, with an emphasis on clean architecture, automation, and operational excellence.
 
-Feel free to take a look at my repositories. If you have any questions or if there's an opportunity to work together, don't hesitate to reach out.
+I am always open to discussing high-impact projects, platform modernisation initiatives, and opportunities where technical strategy meets business growth.
 
 
 
 ## Some Stats:
-
 <a href="https://konstantinos.top/">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=konstantinosbotonakis&layout=compact&langs_count=20&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=konstantinosbotonakis&layout=compact&langs_count=8&card_width=320" />
 </a>
