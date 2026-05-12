@@ -1,8 +1,9 @@
-# Hi there 👋!
+I am Konstantinos, a Senior Software Engineering Manager and Principal Engineer focused on building scalable platforms, shaping technical strategy, and helping engineering organisations deliver meaningful business impact.
 
+My experience covers PHP, Go, JavaScript, Python, and Ruby, with particular depth in system architecture, platform modernisation, performance engineering, eCommerce infrastructure, automation, and operational excellence. I have led and enabled teams across complex product and platform domains, bridging hands-on engineering with cross-functional technical leadership.
 
-I am Konstantinos, a Principal Engineer specialising in PHP, Go, and JavaScript, with a proven track record of delivering scalable, high-performance platforms. My expertise spans system architecture, performance optimisation, and leading cross-functional teams to deliver complex projects at scale.
+This GitHub profile contains open-source work, experiments, and tools that reflect my approach to engineering: pragmatic architecture, maintainable systems, strong developer experience, and a clear connection between technical decisions and business outcomes.
 
-On GitHub, you will find examples of my open-source work, technical experiments, and contributions that reflect my approach to building maintainable, resilient systems. My work often bridges front-end and back-end domains, with an emphasis on clean architecture, automation, and operational excellence.
+I am open to conversations around platform strategy, engineering leadership, modernisation initiatives, and high-impact technical roles where execution quality and long-term thinking matter.
 
-I am always open to discussing high-impact projects, platform modernisation initiatives, and opportunities where technical strategy meets business growth.
+Contact me at: https://konstantinos.top
