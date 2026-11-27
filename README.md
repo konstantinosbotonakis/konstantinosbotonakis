@@ -1,4 +1,6 @@
-# Konstantinos Botonakis
+<h2><img align="middle" width="48" height="48" alt="" src="https://avatars.githubusercontent.com/u/37538071?v=4&amp;s=128"> Konstantinos Botonakis</h2>
+
+`@konstantinosbotonakis`
 
 I lead AI engineering at WP Engine and founded OpenCart Greece and London. I still write tools for the work I do, whether that’s running a shop from the terminal or making a coding agent easier to work with.
 
@@ -6,52 +8,47 @@ I lead AI engineering at WP Engine and founded OpenCart Greece and London. I sti
 
 ## Featured projects
 
-### Agent Computer Use
-
-I built a Chrome extension so coding agents can check a page in the browser I already use. Their tabs stay in a separate background group.
-
-[Repository & setup](https://github.com/konstantinosbotonakis/agent-computer-use)
-
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>Agent Computer Use</h3>
+<p>I built a Chrome extension so coding agents can check a page in the browser I already use. Their tabs stay in a separate background group.</p>
+<p><a href="https://github.com/konstantinosbotonakis/agent-computer-use">Repository &amp; setup</a></p>
 <details>
 <summary>See an example task</summary>
-
-> Open the staging site and check whether the sign-in link is visible on the homepage.
-
-1. The agent opens the site in its own Chrome tab group.
-2. It reads the page and reports what it found.
-3. The tab you were working in stays in focus.
-
+<blockquote><p>Open the staging site and check whether the sign-in link is visible on the homepage.</p></blockquote>
+<ol>
+<li>The agent opens the site in its own Chrome tab group.</li>
+<li>It reads the page and reports what it found.</li>
+<li>The tab you were working in stays in focus.</li>
+</ol>
 </details>
-
-### Context Diet
-
-I built a Codex plugin for the point when tool output starts to bury the few lines you actually need.
-
-[Why I built it](https://konstantinos.top/blog/42/) · [Repository](https://github.com/konstantinosbotonakis/codex-context-diet)
-
+</td>
+<td width="50%" valign="top">
+<h3>Context Diet</h3>
+<p>I built a Codex plugin for the point when tool output starts to bury the few lines you actually need.</p>
+<p><a href="https://konstantinos.top/blog/42/">Why I built it</a> · <a href="https://github.com/konstantinosbotonakis/codex-context-diet">Repository</a></p>
 <details>
 <summary>See a before-and-after example</summary>
+<p><strong>Original tool output</strong></p>
+<pre><code>PASS config
+FAIL settings
+Expected 200
+Received 403
+PASS render
+… more tests
+</code></pre>
+<p><strong>What Codex could keep</strong></p>
+<pre><code>FAIL settings
+Expected 200
+Received 403
 
-**Original tool output**
-
-```text
-PASS tests/config.test.ts
-FAIL tests/settings.test.ts
-  Expected 200, received 403
-PASS tests/render.test.ts
-… more passing tests …
-```
-
-**What Codex could keep**
-
-```text
-FAIL tests/settings.test.ts
-  Expected 200, received 403
-
-Passing test lines omitted.
-```
-
+Passes cut.
+</code></pre>
 </details>
+</td>
+</tr>
+</table>
 
 ## Explore my work
 
