@@ -1,7 +1,3 @@
-<h2><img align="middle" width="48" height="48" alt="" src="https://avatars.githubusercontent.com/u/37538071?v=4&amp;s=128"> Konstantinos Botonakis</h2>
-
-`@konstantinosbotonakis`
-
 I lead AI engineering at WP Engine and founded OpenCart Greece and London. I still write tools for the work I do, whether that’s running a shop from the terminal or making a coding agent easier to work with.
 
 [Website](https://konstantinos.top/) · [Writing](https://konstantinos.top/blog/) · [CV](https://konstantinos.top/cv/)
